@@ -1,0 +1,19 @@
+{
+  "name": "spec",
+  "productName": "spec",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "kacpi",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "dialogs": "*",
+    "sqlite3": "*"
+  },
+  "devDependencies": {
+    "electron": "11.0.0"
+  }
+}
